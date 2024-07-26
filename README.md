@@ -88,13 +88,14 @@ Complete working example custom Elementor widget plugin identified as "Simple Ex
 
 ### Folder Structure
 
-```bash
-elementor-oembed-widget/
-|
-├─ widgets/
-|  └─ oembed-widget.php
-|
-└─ elementor-oembed-widget.php
+```sh
+├───.vscode
+├───ehw-notes
+│   ├───css
+│   ├───docs
+│   └───img
+├───ex-files
+└───_sb
 ```
 
 ## Purpose
