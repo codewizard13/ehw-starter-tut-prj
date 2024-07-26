@@ -1,4 +1,6 @@
-<link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="./ehw-notes/css/style.css">
+
+!!! NOTE: This STARTER README has a variety of section; after you've forked / cloned this repo, keep what you need and delete the rest!
 
 | **Tutorial Name**    | **Custom Elementor Widget: Simple Example**               |
 | -------------------- | --------------------------------------------------------- |
